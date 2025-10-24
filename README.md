@@ -82,7 +82,7 @@ Feel free to contribute to this parody project! Some ideas:
 - Add sound effects for clicks and jumps
 
 ## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/XiayiZhang/Sun/blob/main/LICENSE) file for details.
 
 ## ⚠️ Legal Notice
 This software is created purely for entertainment and educational purposes. All references to political figures are satirical in nature and not intended for serious political commentary.
