@@ -1,0 +1,11 @@
+[package]
+name = "Sun"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+egui = "0.31.1"
+eframe = { version = "0.31.1", features = ["default"] }#{ version = "0.24", features = ["default", "persistence", "wgpu", "accesskit"] }""
+egui_extras = "0.24"
+rodio = "0.17"
+image = "0.25.8"
