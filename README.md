@@ -1,5 +1,5 @@
 # Enqing App - Click the People, Accumulate Kindness for General! 🇰🇵<br>
-A humorous and satirical desktop application where you can click on a crying General to make him jump and accumulate "kindness" points. Made with Rust and egui.
+A humorous and satirical desktop application where you can click on a crying people to make him jump and accumulate "kindness" points for General. Made with Rust and egui.
 
 ![general](https://github.com/XiayiZhang/Sun/blob/main/img/sun.png)
 
@@ -39,6 +39,10 @@ cd Sun
 # Run the application
 cargo run
 ```
+
+you can also download the release version in RELEASE.
+
+
 ### Optional Assets
 - Place a music.m4a file in the root directory for background music
 
